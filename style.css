@@ -1361,14 +1361,3 @@ footer {
     display: block;
 }
 
-@media (max-width: 900px) {
-    .hero-image {
-        position: relative;
-        right: auto;
-        top: auto;
-        transform: none;
-        width: 280px;
-        height: 360px;
-        margin: 40px auto 0;
-    }
-}
