@@ -226,14 +226,14 @@ button {
     */
 
     background-image:
-        linear-gradient(
-            90deg,
-            rgba(4, 5, 10, 0.94) 0%,
-            rgba(4, 5, 10, 0.82) 32%,
-            rgba(4, 5, 10, 0.50) 58%,
-            rgba(4, 5, 10, 0.18) 100%
-        ),
-        url("image/ritesh.png");
+    linear-gradient(
+        90deg,
+        rgba(4, 5, 10, 0.94) 0%,
+        rgba(4, 5, 10, 0.82) 32%,
+        rgba(4, 5, 10, 0.50) 58%,
+        rgba(4, 5, 10, 0.18) 100%
+    ),
+    url("./ritesh.png");
 
             background-size: cover;
             background-repeat: no-repeat, no-repeat;
@@ -1240,7 +1240,7 @@ footer {
                 rgba(4, 5, 10, 0.72) 55%,
                 rgba(4, 5, 10, 0.55) 100%
             ),
-            url("image/ritesh.png");
+            url("./ritesh.png");
 
         background-position:
     center,
@@ -1338,7 +1338,7 @@ footer {
 
 }
 
-.hero {
+/* .hero {
     position: relative;
 }
 
@@ -1358,6 +1358,6 @@ footer {
     width: 100%;
     height: 100%;
     object-fit: contain;
-    display: block;
+    display: block; */
 }
 
